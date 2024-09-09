@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0; 
+    }
+
+   a{
+     font-size: 25px;
+     color: darkblue;
+     text-align: center;
+   }
+    
+    
+    .titulo1{
+        font-size: 75px;
+        color: rgb(10, 10, 78);
+        text-align: center;
+    }
+    .texto{
+        color: rgb(3, 3, 58);
+        font-size: 30px;
+        text-indent: 50px;
+    }
+    .padrao-img{
+        height: 300px;
+        border-radius: 15px;
+
+    }
+    .azul{
+        color: rgb(43, 90, 109);
+        text-align: center;
+        font-size: 50px;
+    }
+    .verde{
+        color: rgb(7, 70, 7);
+        text-align: center;
+        font-size: 50px;
+        
+    }
+    .cinza{
+        color: rgb(82, 82, 82);
+        text-align: center;
+        font-size: 50px;
+
+    }
+    .texto-card{
+        font-size: 20px;
+    }
+    .header{
+    background-color: rgb(217, 238, 238);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    }
+    .imagem-header{
+    width: 200px;
+    height: 275px;
+    
+    }
+    .conteudo-header{
+        background-color: rgb(217, 238, 238);
+        width: 75%;
+        padding: 15px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    
+    }
+    .div-cards{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        width: 95%;
+        
+    }
+
+    .card-1{
+        padding: 15px;
+        background-color: rgb(215, 243, 241);
+        margin-top: 20px; 
+        border-radius: 15px;
+    }
+
+    .secao-1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 20px;
+    
+    }
+    .secao-2{
+        background-color: rgb(196, 226, 231);
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 20px;
+        width: 75%;
+        margin: 15px;
+        border-radius: 20px;
+    
+    }
+    .titulo2{
+        font-size: 50px;
+        
+    }
+    .texto-secao2{
+        margin: 15px;
+        font-size: 35px;
+        line-height: 50px;
+        
+    }
+    .frase{
+        font-size: 25px;
+    }
+    .secao-3{
+        background-color: rgb(174, 226, 226);
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        padding: 20px;
+        width: 75%;
+        margin: 15px;
+        border-radius: 20px;
+    
+    }
+    .secao-4{
+        margin: 15px;
+        display: flex;
+        flex-direction: column;
+    }
+   .titulo3{
+    font-size: 50px;
+   }
+   .secao-5{
+    margin: 15px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(211, 245, 233);
+    border-radius: 20px;
+   }
+   .titulo4{
+    font-size: 50px;
+    margin: 15px;
+   }
+   .texto-final{
+    font-size: 25px;
+    line-height: 30px;
+   }
+    .footer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        padding: 20px;
+        background-color: rgb(160, 195, 226);
+        width: 95%;
+    
+    }
+    .logo{
+        border-radius: 15px;
+    }
